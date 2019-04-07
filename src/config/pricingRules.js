@@ -1,12 +1,12 @@
 export default [
   {
     code: "VOUCHER",
-    name: "Cabify Voucher",
+    name: "Voucher",
     price: 5
   },
   {
     code: "TSHIRT",
-    name: "Cabify T-Shirt",
+    name: "T-Shirt",
     price: 20
   },
   {
